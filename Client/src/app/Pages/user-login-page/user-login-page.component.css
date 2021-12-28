@@ -1,0 +1,66 @@
+.login{
+    background: #647ac6;
+    border-radius: 1.5rem;
+    margin-top: 180px;
+}
+
+.register-left{
+    text-align: center;
+    color: #fff;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.register-left button{
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    width: 60%;
+    background: #f8f9fa;
+    font-weight: bold;
+    color: #383d41;
+    margin-top: 10px;
+}
+
+.login-right{
+    border-radius: 1.3rem;
+    background: #f8f9fa;
+    border-top-left-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    font-display: center;
+}
+
+.login .login-form{
+    padding: 10%;
+    margin-top: 10%;
+}
+
+.form-control { 
+    margin-top: 5px;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.btnLogin{
+    margin-top: 10%;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    background: #647ac6;
+    color: #fff;
+    font-weight: 600;
+    width: 50%;
+    margin-left: 80%;
+    margin-right: 80%;
+}
+
+.login-heading{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: -15%;
+    color: #495057;
+}
+
+.form-group{
+    text-align: center;
+}
